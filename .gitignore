@@ -1,0 +1,5 @@
+*.gs
+appsscript.json
+README-APPS-SCRIPT.txt
+README_DEPLOY.txt
+verificar.cjs
